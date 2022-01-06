@@ -1,2 +1,2 @@
-# githubtutorial
-This is a sample repository for githubtutorial
+# CodeStorage
+개발 노트 정리
