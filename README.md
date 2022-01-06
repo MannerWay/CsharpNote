@@ -1,2 +1,2 @@
-# CodeStorage
-개발 노트 정리
+# 백준 알고리즘 Java
+
